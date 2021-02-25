@@ -12,5 +12,4 @@ fetch('http://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=a
 					</div>
 			</div>`
 		}
-		console.log(data)
 	})
