@@ -1,4 +1,4 @@
-fetch('http://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=aa247e5f62a04dd080b74d5879f3dba9')
+fetch('http://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=546e274f94534ec8a946c7d01cf9e939')
 	.then((res)=>{
 		return res.json();
 	}).then((data)=>{
