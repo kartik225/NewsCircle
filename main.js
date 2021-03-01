@@ -1,4 +1,4 @@
-let url = "https:// ab1234.pythonanywhere.com/data";
+let url = "https://ab1234.pythonanywhere.com/data";
 
 fetch(url)
 	.then((res)=>{
